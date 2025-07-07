@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Last updated: [Current Date]
+Last updated: 2025/07/07
 
 ## Introduction
 
-Welcome to [Your App Name] ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Welcome to My Tube ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -13,7 +13,6 @@ We may collect the following types of information:
 - Email address (for user authentication)
 - Device information (device type, operating system)
 - Usage data (app features used, time spent in app)
-- [Add other specific data points your app collects]
 
 ### How We Collect Information
 Information is collected in the following ways:
@@ -28,7 +27,6 @@ We use the collected information for:
 - Improving our app features
 - Communicating with you about updates
 - Ensuring app security
-- [Add other specific uses]
 
 ## Data Storage and Security
 
@@ -62,10 +60,10 @@ We may update this privacy policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have questions about this privacy policy, please contact us:
-- Email: [Your Contact Email]
-- Website: [Your Website]
-- Address: [Your Address]
+- Email: kokomasoft@gmail.com
+- Website: http://kueen108.synology.me/
+- Address: 207, Pangyowon-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
 ## Governing Law
 
-This privacy policy is governed by the laws of [Your Country/Region].
+This privacy policy is governed by the laws of Korea.
